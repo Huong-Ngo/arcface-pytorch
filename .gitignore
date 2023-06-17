@@ -1,0 +1,8 @@
+!.gitignore
+*.pyc
+*.pth
+dataset
+*__pycache__
+runs
+arcface*
+weights
